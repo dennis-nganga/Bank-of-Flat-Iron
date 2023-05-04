@@ -1,0 +1,21 @@
+.Inputs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Inputs input {
+    width: 25%;
+    margin-right: 10px;
+}
+
+.Inputs select {
+    width: 25%;
+    margin-right: 10px;
+}
+
+.Inputs button {
+    width: 100%;
+}
+.h3{
+    text-align: center;
+}
